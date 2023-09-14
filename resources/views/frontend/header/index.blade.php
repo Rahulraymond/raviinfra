@@ -20,7 +20,7 @@
                             <i class="icon-envelope1"></i>
                             <div>
                                 <span>Email Us:</span><strong><a
-                                        href="mailto:vahpl@raviinfra.com">kshpl@raviinfra.com</a></strong>
+                                        href="mailto:kshpl@raviinfra.com">kshpl@raviinfra.com</a></strong>
                             </div>
                         </li>
                     </ul>
