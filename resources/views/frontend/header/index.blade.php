@@ -75,7 +75,7 @@
                 <div class="header-actions d-none d-lg-block">
                     <ul class="header-actions__list list-unstyled d-flex align-items-center mb-0">
                         <li>
-                            <span class="project-nm">Project Location: Vijayapura</span>
+                            <span class="project-nm">Project Location: Kshipra</span>
                         </li>
                     </ul>
                 </div>
