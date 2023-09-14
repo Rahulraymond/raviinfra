@@ -5,7 +5,7 @@
     <nav class="navbar navbar-expand-lg">
         <div class="container">
             <a class="navbar-brand" href="{{ route('home') }}">
-                <img src="{{ asset('public/assets/img/logo.png') }}" class="logo-dark" alt="logo" />
+                <img src="{{ asset('../../assets/img/kshpl_logo.png') }}" class="logo-dark" alt="logo" />
             </a>
             <div class="header-topbar d-none d-lg-block">
                 <div class="d-flex flex-wrap">
@@ -20,7 +20,7 @@
                             <i class="icon-envelope1"></i>
                             <div>
                                 <span>Email Us:</span><strong><a
-                                        href="mailto:vahpl@raviinfra.com">vahpl@raviinfra.com</a></strong>
+                                        href="mailto:vahpl@raviinfra.com">kshpl@raviinfra.com</a></strong>
                             </div>
                         </li>
                     </ul>
@@ -48,7 +48,7 @@
                             <li class="nav__item">
                                 <a href="{{route('show.progres')}}" class="nav__item-link">Progress</a>
                             </li>
-                        @else 
+                        @else
                             <!-- /.nav-item -->
                             <li class="nav__item">
                                 <a href="#about" class="nav__item-link">About</a>
