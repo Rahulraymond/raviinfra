@@ -5,7 +5,7 @@
     <nav class="navbar navbar-expand-lg">
         <div class="container">
             <a class="navbar-brand" href="{{ route('home') }}">
-                <img src="{{ asset('public/assets/img/logo.png') }}" class="logo-dark" alt="logo" />
+                <img src="{{ asset('../../assets/img/kshpl_logo.png') }}" class="logo-dark" alt="logo" />
             </a>
             <div class="header-topbar d-none d-lg-block">
                 <div class="d-flex flex-wrap">
