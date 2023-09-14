@@ -6,7 +6,11 @@
 
 <link rel="stylesheet" href="{{ asset('../../assets/css/style.css') }}">
 <link rel="stylesheet" href="{{ asset('../../assets/css/custom.css') }}">
+<<<<<<< HEAD
 <!-- End layout styles 
+=======
+<!-- End layout styles
+>>>>>>> a519c1a2482c57cde13ddfc64c4c8303dc9ff748
 <link rel="shortcut icon" href="{{ asset('../../assets/images/fav.png') }}" />-->
 
 <link rel="shortcut icon" href="https://cleverapp.in/pe/assets/images/lock.png" />

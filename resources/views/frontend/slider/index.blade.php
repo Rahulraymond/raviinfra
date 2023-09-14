@@ -5,11 +5,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8">
-                        <div class="slide__content">
+                        <!-- <div class="slide__content">
                             <h2 class="slide__title">
                                 Creative, Strong & Outstanding<br/>Infrastructure
                             </h2>
-                        </div>
+                        </div> -->
                         <!-- /.slide-content -->
                     </div>
                     <!-- /.col-xl-8 -->
@@ -24,11 +24,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8">
-                        <div class="slide__content">
+                        <!-- <div class="slide__content">
                             <h2 class="slide__title">
                                 Prime Design, Engineering<br/>& Building
                             </h2>
-                        </div>
+                        </div> -->
                         <!-- /.slide-content -->
 
                     </div>
@@ -45,11 +45,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8">
-                        <div class="slide__content">
+                        <!-- <div class="slide__content">
                             <h2 class="slide__title">
                                 Social Responsibility and<br/>Eco-Friendly
                             </h2>
-                        </div>
+                        </div> -->
                         <!-- /.slide-content -->
                     </div>
                     <!-- /.col-xl-8 -->
