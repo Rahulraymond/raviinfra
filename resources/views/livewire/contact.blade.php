@@ -122,8 +122,8 @@
                     <div class="contact-panel__block">
                         <h5 class="contact-panel__block__title">Email:-</h5>
                         <ul class="contact-panel__block__list list-unstyled">
-                           
-                            <li><a href="mailto: vahpl@raviinfra.com"> vahpl@raviinfra.com</a></li>
+
+                            <li><a href="mailto: vahpl@raviinfra.com"> kshpl@raviinfra.com</a></li>
                             <li><a href="mailto:info@raviinfra.com">info@raviinfra.com</a></li>
                         </ul>
                     </div>
