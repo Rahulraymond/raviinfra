@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Vijayapura | Progress')
+@section('title', 'Kshipra | Progress')
 @push('css')
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
@@ -202,7 +202,7 @@
             $(this).attr('data-position', index);
         });
 
-        // ==========owlCarousel initializing 
+        // ==========owlCarousel initializing
         $owl.owlCarousel({
             center: true,
             items: 3,
