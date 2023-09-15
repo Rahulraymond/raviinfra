@@ -66,7 +66,7 @@
                         <!-- /.col-lg-6 -->
                         <div class="col-sm-12 col-md-12 col-lg-12">
                             <div class="form-group">
-                                <textarea class="form-control" wire:model="details" placeholder="Additional Details!*" ></textarea>
+                                <textarea class="form-control" wire:model="details" placeholder="Additional Details*" ></textarea>
                                 @error('detials')
                                     <span class="error text-danger"><small>{{ $message }}</small></span>
                                 @enderror
@@ -108,7 +108,7 @@
                     <div class="contact-panel__block">
                         <h5 class="contact-panel__block__title">Location:-</h5>
                         <ul class="contact-panel__block__list list-unstyled">
-                            <li>Vijayapura, Karnataka</li>
+                            <li>Ujjain, Madhya Pradesh</li>
                         </ul>
                     </div>
                     <!-- /.contact-panel__info__block -->

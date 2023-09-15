@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Vijayapura | Home')
+@section('title', 'Kshipra | Home')
 
 @section('content')
     <div id="grievances" style="display:none;">
@@ -93,7 +93,7 @@
                 <div class="col-sm-12 col-md-4 col-lg-4">
                     <div class="service-item">
                         <div class="service-item__img">
-                            <img src="{{ asset('public/assets/img/p1.png') }}" alt="service" class="w-100" />
+                            <img src="{{ asset('public/assets/img/ini_stage.jpeg') }}" alt="service" class="w-100" />
                         </div>
                         <!-- /.service-item__img -->
                         <div class="service-item__content">
@@ -107,7 +107,7 @@
                 <div class="col-sm-12 col-md-4 col-lg-4">
                     <div class="service-item">
                         <div class="service-item__img">
-                            <img src="{{ asset('public/assets/img/p2.png') }}" alt="service" class="w-100" />
+                            <img src="{{ asset('public/assets/img/ongoing.jpeg') }}" alt="service" class="w-100" />
                         </div>
                         <!-- /.service-item__img -->
                         <div class="service-item__content">
@@ -121,7 +121,7 @@
                 <div class="col-sm-12 col-md-4 col-lg-4">
                     <div class="service-item">
                         <div class="service-item__img">
-                            <img src="{{ asset('public/assets/img/p3.png') }}" alt="service" class="w-100" />
+                            <img src="{{ asset('public/assets/img/forthcoming.jpeg') }}" alt="service" class="w-100" />
                         </div>
                         <!-- /.service-item__img -->
                         <div class="service-item__content">
