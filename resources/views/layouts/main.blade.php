@@ -9,11 +9,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link href="{{ asset('../../assets/img/favicon.png') }}" rel="icon">
+    <link href="{{ asset('public/assets/img/favicon.png') }}" rel="icon">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@latest/dist/css/uikit.min.css">
-    <link rel="stylesheet" href="{{asset("../../css/libraries.css")}}">
-    <link rel="stylesheet" href="{{asset("../../css/style.css")}}">
+    <link rel="stylesheet" href="{{asset("public/css/libraries.css")}}">
+    <link rel="stylesheet" href="{{asset("public/css/style.css")}}">
     @stack('css')
     @livewireStyles
 </head>
@@ -39,11 +39,11 @@
     <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
     @stack('js')
-    <script src="{{ asset('../../js/jquery-3.5.1.min.js') }}"></script>
+    <script src="{{ asset('public/js/jquery-3.5.1.min.js') }}"></script>
     <script src="https://cdn.jsdelivr.net/npm/uikit@latest/dist/js/uikit.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/uikit@latest/dist/js/uikit-icons.min.js"></script>
-    <script src="{{ asset('../../js/plugins.js') }}"></script>
-    <script src="{{ asset('../../js/main.js') }}"></script>
+    <script src="{{ asset('public/js/plugins.js') }}"></script>
+    <script src="{{ asset('public/js/main.js') }}"></script>
     <script>
         window.addEventListener('closeModal', event => {
             $("#formplay").modal('hide');
