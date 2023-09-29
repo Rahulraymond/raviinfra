@@ -4,10 +4,10 @@
     feather.replace()
 </script>
 <!-- core:js -->
-<script src="{{ asset('public/js/app.js') }}"></script>
+<script src="{{ asset(public/js/app.js') }}"></script>
 <!-- endinject -->
 <!-- plugin js for this page -->
-<script src="{{ asset('public/assets/vendors/progressbar.js/progressbar.min.js') }}"></script>
+<script src="{{ asset(public/assets/vendors/progressbar.js/progressbar.min.js') }}"></script>
 
 <!-- plugin js for this page -->
 <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
@@ -48,6 +48,6 @@
         });
     });
 </script>
-<script src="{{asset('public/assets/izitoast/js/iziToast.min.js')}}"></script>
+<script src="{{asset(public/assets/izitoast/js/iziToast.min.js')}}"></script>
 <!-- plugin js for this page -->
 @stack("js")

@@ -8,12 +8,12 @@
 /*---------------------------
       Table of Contents
     -------------------------
-    
+
     01- Global Styles
     02- Helper Classes
     03- Background & Colors
     04- Typography
-    05- page title 
+    05- page title
     06- Buttons
     07- Forms
     08- Tabs
@@ -22,7 +22,7 @@
     11- Pagination
     12- Lists
     13- Animations
-    14- Header & Navbar 
+    14- Header & Navbar
     15- Accordions
     16- Banners
     17- Footer
@@ -46,9 +46,9 @@
     35- Careers
     36- Services
     37- Work Process
-    
+
 ----------------------------*/
-/*-------------------------- 
+/*--------------------------
       Global Styles
 ---------------------------*/
 html {
@@ -1111,7 +1111,7 @@ h2.heading__title.p-title {
 }
 
 /*-------------------------
-    page title 
+    page title
 -------------------------*/
 .header-transparent + .page-title {
   margin-top: -100px;
@@ -1133,7 +1133,7 @@ h2.heading__title.p-title {
     font-weight: 500;
 }
 .pagetitle__heading strong{
-   
+
     font-weight: 700;
 }
 
@@ -1773,7 +1773,7 @@ textarea.form-control {
   }
 }
 
-/*------------------- 
+/*-------------------
     Icons
 ------------------*/
 .social__icons {
@@ -3707,7 +3707,7 @@ li.address:before{
 }
 
 /*------------------------
-    Slider 
+    Slider
 --------------------------*/
 .header-transparent + .slider {
   margin-top: -100px;
@@ -4245,7 +4245,7 @@ li.address:before{
 }
 
 /*-----------------------
-     fancybox 
+     fancybox
 ------------------------*/
 .fancybox-item {
   position: relative;
@@ -7037,7 +7037,7 @@ ul.contact-panel__block__list li a {
 }
 
 /*-----------------------
-    Services 
+    Services
 --------------------------*/
 .service-item {
   position: relative;
@@ -7124,7 +7124,7 @@ ul.contact-panel__block__list li a {
 }
 .card-header .accicon {
   float: right;
-  font-size: 20px;  
+  font-size: 20px;
   width: 1.2em;
 }
 .card-header{
@@ -7309,7 +7309,7 @@ ul.contact-panel__block__list li a {
     font-size: 22px;
 }
 .counter-item .counter {
-   
+
     margin-bottom: 5px;
 }
 .about-layout2 .counters-wrapper .counter-item {
@@ -7368,6 +7368,6 @@ section.project-section {
 }
 }
 @media only screen and (max-width: 767px) {
- 
+
 }
 /*# sourceMappingURL=style.css.map */
