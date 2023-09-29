@@ -89,7 +89,7 @@
                         <h5 class="contact-panel__block__title">Contact</h5>
                         <ul class="contact-panel__block__list list-unstyled">
                             <li>Mr. Lallan Awasthi (Project Manager)</li>
-                            <li><a href="mailto:marotiraoshinde@raviinfra.com">awasthi@raviinfra.com</a></li>
+                            <li><a href="mailto:awasthi@raviinfra.com">awasthi@raviinfra.com</a></li>
                             <li><a href="tel:9111017307">+91 91110 17307</a></li>
                         </ul>
                     </div>
@@ -98,7 +98,7 @@
                         <h5 class="contact-panel__block__title">Divisional Manager</h5>
                         <ul class="contact-panel__block__list list-unstyled">
                             <li>Mr. R.K. Jain, Divisional Manager, MPRDC, Indore Division</li>
-                            <li><a href="mailto:eenhdnbijapur@gmail.com">dm-indore@mp.gov.in</a></li>
+                            <li><a href="mailto:dm-indore@mp.gov.in">dm-indore@mp.gov.in</a></li>
                             <li><a href="mailto:dmmprdcind2@gmail.com">dmmprdcind2@gmail.com</a></li>
                             <li><a href="tel:9425019645">+91 94250 19645</a></li>
                         </ul>
