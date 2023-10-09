@@ -54,7 +54,7 @@
                 <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
                     <div class="heading text-center mb-40">
                         <span class="heading__subtitle">Project Progress</span>
-                        <h2 class="heading__title p-title">Vijayapura-Sankeshwar section</h2>
+                        <h2 class="heading__title p-title">Kshipra-Sankeshwar section</h2>
                     </div>
                     <!-- /.heading -->
                 </div>
