@@ -88,18 +88,19 @@
                     <div class="contact-panel__block">
                         <h5 class="contact-panel__block__title">Contact</h5>
                         <ul class="contact-panel__block__list list-unstyled">
-                            <li>Mr. Maruti Rao Shinde (Project Manager)</li>
-                            <li><a href="mailto:marotiraoshinde@raviinfra.com"> marotiraoshinde@raviinfra.com</a></li>
-                            <li><a href="tel:7020035222">+91 70200 35222</a></li>
+                            <li>Mr. Lallan Awasthi (Project Manager)</li>
+                            <li><a href="mailto:awasthi@raviinfra.com">awasthi@raviinfra.com</a></li>
+                            <li><a href="tel:9111017307">+91 91110 17307</a></li>
                         </ul>
                     </div>
                     <!-- /.contact-panel__info__block -->
                     <div class="contact-panel__block">
-                        <h5 class="contact-panel__block__title">Executive Engineer</h5>
+                        <h5 class="contact-panel__block__title">Divisional Manager</h5>
                         <ul class="contact-panel__block__list list-unstyled">
-                            <li>Mr. Vijay Patil, NH (PWD), Vijayapura Division</li>
-                            <li><a href="mailto:eenhdnbijapur@gmail.com">eenhdnbijapur@gmail.com</a></li>
-                            <li><a href="tel:9741970333">+91 97419 70333</a></li>
+                            <li>Mr. R.K. Jain, Divisional Manager, MPRDC, Indore Division</li>
+                            <li><a href="mailto:dm-indore@mp.gov.in">dm-indore@mp.gov.in</a></li>
+                            <li><a href="mailto:dmmprdcind2@gmail.com">dmmprdcind2@gmail.com</a></li>
+                            <li><a href="tel:9425019645">+91 94250 19645</a></li>
                         </ul>
                     </div>
                     <!-- /.contact-panel__info__block -->
@@ -108,7 +109,7 @@
                     <div class="contact-panel__block">
                         <h5 class="contact-panel__block__title">Location:-</h5>
                         <ul class="contact-panel__block__list list-unstyled">
-                            <li>Ujjain, Madhya Pradesh</li>
+                            <li>Kshipra, Indore, Madhya Pradesh</li>
                         </ul>
                     </div>
                     <!-- /.contact-panel__info__block -->

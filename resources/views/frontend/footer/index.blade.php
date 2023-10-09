@@ -9,7 +9,7 @@
                   <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 footer-widget">
                       <h6 class="footer-widget__title">About</h6>
                       <div class="footer-widget__content">
-                          <p class="mb-20">Vijayapura Sankeshwar Highway Private Limited is the subsidiary company of M/s Ravi Infrabuild Projects Private Limited Udaipur and is the pioneer Civil engineering company creating world-class highways for our nation.
+                          <p class="mb-20">Kshipra Highway Private Limited is the subsidiary company of M/s Ravi Infrabuild Projects Private Limited Udaipur and is the pioneer Civil engineering company creating world-class highways for our nation.
                             </p>
                       </div><!-- /.footer-widget__content -->
                   </div><!-- /.col-xl-2 -->

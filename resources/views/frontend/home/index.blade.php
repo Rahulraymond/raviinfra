@@ -56,7 +56,7 @@
                 <!-- /.col-lg-6 -->
                 <div class="col-sm-12 col-md-12 col-lg-6">
                     <div class="about__img">
-                        <img src="{{ asset('public/assets/img/abt.png') }}" alt="about" class="img-fluid" />
+                        <img src="{{ asset('public/assets/img/about_us.jpeg') }}" alt="about" class="img-fluid" />
                         <div class="cta-banner">
                             <div class="cta-banner__icon">
                                 <img src="{{ asset('public/assets/img/cap.png') }}" alt="" />
