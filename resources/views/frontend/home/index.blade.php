@@ -161,23 +161,23 @@
                                     <div class="uk-slider-items uk-child-width-1-2 uk-child-width-1-3@s uk-child-width-1-4@m"
                                         uk-lightbox>
                                         <div>
-                                            <a href="{{ asset('../../assets/img/pg1.png') }}" data-caption="1">
-                                                <img src="{{ asset('../../assets/img/pg1.png') }}" alt="" />
+                                            <a href="{{ asset('../../storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" data-caption="1">
+                                                <img src="{{ asset('../../storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../assets/img/pg2.png') }}" data-caption="2">
-                                                <img src="{{ asset('../../assets/img/pg2.png') }}" alt="" />
+                                            <a href="{{ asset('../../storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" data-caption="2">
+                                                <img src="{{ asset('../../storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../assets/img/pg3.png') }}" data-caption="3">
-                                                <img src="{{ asset('../../assets/img/pg3.png') }}" alt="" />
+                                            <a href="{{ asset('../../storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" data-caption="3">
+                                                <img src="{{ asset('../../storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../assets/img/pg4.png') }}" data-caption="4">
-                                                <img src="{{ asset('../../assets/img/pg4.png') }}" alt="" />
+                                            <a href="{{ asset('../../storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" data-caption="4">
+                                                <img src="{{ asset('../../storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                     </div>
@@ -197,23 +197,23 @@
                                     <div class="uk-slider-items uk-child-width-1-2 uk-child-width-1-3@s uk-child-width-1-4@m"
                                         uk-lightbox>
                                         <div>
-                                            <a href="{{ asset('../../assets/img/pg1.png') }}" data-caption="1">
-                                                <img src="{{ asset('../../assets/img/pg1.png') }}" alt="" />
+                                            <a href="{{ asset('../../storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" data-caption="1">
+                                                <img src="{{ asset('../../storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../assets/img/pg2.png') }}" data-caption="2">
-                                                <img src="{{ asset('../../assets/img/pg2.png') }}" alt="" />
+                                            <a href="{{ asset('../../storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" data-caption="2">
+                                                <img src="{{ asset('../../storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../assets/img/pg3.png') }}" data-caption="3">
-                                                <img src="{{ asset('../../assets/img/pg3.png') }}" alt="" />
+                                            <a href="{{ asset('../../storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" data-caption="3">
+                                                <img src="{{ asset('../../storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../assets/img/pg4.png') }}" data-caption="4">
-                                                <img src="{{ asset('../../assets/img/pg4.png') }}" alt="" />
+                                            <a href="{{ asset('../../storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" data-caption="4">
+                                                <img src="{{ asset('../../storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                     </div>
@@ -232,24 +232,25 @@
                                     <div class="uk-slider-items uk-child-width-1-2 uk-child-width-1-3@sld-width-1-4@m"
                                         uk-lightbox>
                                         <div>
-                                            <a href="{{ asset('../../assets/img/pg1.png') }}" data-caption="1">
-                                                <img src="{{ asset('../../assets/img/pg1.png') }}" alt="" />
+                                            <a href="{{ asset('../../storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" data-caption="1">
+                                                <img src="{{ asset('../../storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../assets/img/pg2.png') }}" data-caption="2">
-                                                <img src="{{ asset('../../assets/img/pg2.png') }}" alt="" />
+                                            <a href="{{ asset('../../storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" data-caption="2">
+                                                <img src="{{ asset('../../storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../assets/img/pg3.png') }}" data-caption="3">
-                                                <img src="{{ asset('../../assets/img/pg3.png') }}" alt="" />
+                                            <a href="{{ asset('../../storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" data-caption="3">
+                                                <img src="{{ asset('../../storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../assets/img/pg4.png') }}" data-caption="4">
-                                                <img src="{{ asset('../../assets/img/pg4.png') }}" alt="" />
+                                            <a href="{{ asset('../../storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" data-caption="4">
+                                                <img src="{{ asset('../../storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" alt="" />
                                             </a>
+                                        </div>
                                         </div>
                                     </div>
                                     <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#"
