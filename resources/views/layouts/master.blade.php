@@ -7,7 +7,7 @@
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
-
+    <link href="{{ asset('../../assets/img/Kshipra-Icon-Logo.png') }}" rel="icon">
     <title>@yield('title')</title>
 
     {{-- chart google js --}}
