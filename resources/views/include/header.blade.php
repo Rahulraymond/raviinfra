@@ -8,12 +8,12 @@
             <li class="nav-item dropdown nav-profile">
                 <a class="nav-link dropdown-toggle" href="#" id="profileDropdown" role="button" data-toggle="dropdown"
                     aria-haspopup="true" aria-expanded="false">
-                    <img class="rounded-circle" src="{{ asset('../../assets/img/user.png') }}" alt="profile">
+                    <img class="rounded-circle" src="{{ asset('public/assets/img/user.png') }}" alt="profile">
                 </a>
                 <div class="dropdown-menu" aria-labelledby="profileDropdown">
                     <div class="dropdown-header d-flex flex-column align-items-center">
                         <div class="figure mb-3">
-                            <img class="rounded-circle" src="{{ asset('../../assets/img/user.png') }}" alt="">
+                            <img class="rounded-circle" src="{{ asset('public/assets/img/user.png') }}" alt="">
                         </div>
                         <div class="info text-center">
                             <p class="name font-weight-bold mb-0">{{ auth()->user()->name }}</p>

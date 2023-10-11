@@ -2,7 +2,7 @@
 <nav class="sidebar">
     <div class="sidebar-header">
         <a href="{{route('admin.home')}}" class="sidebar-brand">
-            <span><img  src="{{ asset('../../assets/img/Kshipra-Icon-Logo.png') }}"></span>
+            <span><img  src="{{ asset('public/assets/img/Kshipra-Icon-Logo.png') }}"></span>
         </a>
         <div class="sidebar-toggler not-active">
             <span></span>

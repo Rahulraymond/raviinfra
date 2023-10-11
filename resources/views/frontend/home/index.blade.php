@@ -56,10 +56,10 @@
                 <!-- /.col-lg-6 -->
                 <div class="col-sm-12 col-md-12 col-lg-6">
                     <div class="about__img">
-                        <img src="{{ asset('../../assets/img/about_us.jpeg') }}" alt="about" class="img-fluid" />
+                        <img src="{{ asset('public/assets/img/about_us.jpeg') }}" alt="about" class="img-fluid" />
                         <div class="cta-banner">
                             <div class="cta-banner__icon">
-                                <img src="{{ asset('../../assets/img/cap.png') }}" alt="" />
+                                <img src="{{ asset('public/assets/img/cap.png') }}" alt="" />
                             </div>
                             <h5 class="cta-banner__title">Our Initiatives/ Services</h5>
                             <a href="#" class="btn btn__primary btn__link"><i class="icon-arrow-right1"></i></a>
@@ -93,7 +93,7 @@
                 <div class="col-sm-12 col-md-4 col-lg-4">
                     <div class="service-item">
                         <div class="service-item__img">
-                            <img src="{{ asset('../../assets/img/ini_stage.jpeg') }}" alt="service" class="w-100" />
+                            <img src="{{ asset('public/assets/img/ini_stage.jpeg') }}" alt="service" class="w-100" />
                         </div>
                         <!-- /.service-item__img -->
                         <div class="service-item__content">
@@ -107,7 +107,7 @@
                 <div class="col-sm-12 col-md-4 col-lg-4">
                     <div class="service-item">
                         <div class="service-item__img">
-                            <img src="{{ asset('../../assets/img/ongoing.jpeg') }}" alt="service" class="w-100" />
+                            <img src="{{ asset('public/assets/img/ongoing.jpeg') }}" alt="service" class="w-100" />
                         </div>
                         <!-- /.service-item__img -->
                         <div class="service-item__content">
@@ -121,7 +121,7 @@
                 <div class="col-sm-12 col-md-4 col-lg-4">
                     <div class="service-item">
                         <div class="service-item__img">
-                            <img src="{{ asset('../../assets/img/forthcoming.jpeg') }}" alt="service" class="w-100" />
+                            <img src="{{ asset('public/assets/img/forthcoming.jpeg') }}" alt="service" class="w-100" />
                         </div>
                         <!-- /.service-item__img -->
                         <div class="service-item__content">
@@ -161,23 +161,23 @@
                                     <div class="uk-slider-items uk-child-width-1-2 uk-child-width-1-3@s uk-child-width-1-4@m"
                                         uk-lightbox>
                                         <div>
-                                            <a href="{{ asset('../../storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" data-caption="1">
-                                                <img src="{{ asset('../../storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" alt="" />
+                                            <a href="{{ asset('public/storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" data-caption="1">
+                                                <img src="{{ asset('public/storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" data-caption="2">
-                                                <img src="{{ asset('../../storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" alt="" />
+                                            <a href="{{ asset('public/storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" data-caption="2">
+                                                <img src="{{ asset('public/storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" data-caption="3">
-                                                <img src="{{ asset('../../storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" alt="" />
+                                            <a href="{{ asset('public/storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" data-caption="3">
+                                                <img src="{{ asset('public/storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" data-caption="4">
-                                                <img src="{{ asset('../../storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" alt="" />
+                                            <a href="{{ asset('public/storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" data-caption="4">
+                                                <img src="{{ asset('public/storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                     </div>
@@ -197,23 +197,23 @@
                                     <div class="uk-slider-items uk-child-width-1-2 uk-child-width-1-3@s uk-child-width-1-4@m"
                                         uk-lightbox>
                                         <div>
-                                            <a href="{{ asset('../../storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" data-caption="1">
-                                                <img src="{{ asset('../../storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" alt="" />
+                                            <a href="{{ asset('public/storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" data-caption="1">
+                                                <img src="{{ asset('public/storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" data-caption="2">
-                                                <img src="{{ asset('../../storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" alt="" />
+                                            <a href="{{ asset('public/storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" data-caption="2">
+                                                <img src="{{ asset('public/storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" data-caption="3">
-                                                <img src="{{ asset('../../storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" alt="" />
+                                            <a href="{{ asset('public/storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" data-caption="3">
+                                                <img src="{{ asset('public/storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" data-caption="4">
-                                                <img src="{{ asset('../../storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" alt="" />
+                                            <a href="{{ asset('public/storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" data-caption="4">
+                                                <img src="{{ asset('public/storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                     </div>
@@ -232,23 +232,23 @@
                                     <div class="uk-slider-items uk-child-width-1-2 uk-child-width-1-3@sld-width-1-4@m"
                                         uk-lightbox>
                                         <div>
-                                            <a href="{{ asset('../../storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" data-caption="1">
-                                                <img src="{{ asset('../../storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" alt="" />
+                                            <a href="{{ asset('public/storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" data-caption="1">
+                                                <img src="{{ asset('public/storage/media/5dZUSh2kpNCMeZvWtQp1jaA5IzZ39BRIOIcezr90.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" data-caption="2">
-                                                <img src="{{ asset('../../storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" alt="" />
+                                            <a href="{{ asset('public/storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" data-caption="2">
+                                                <img src="{{ asset('public/storage/media/A7AbnCdndOc9P0bVuNUHLa2hR56P5wAYxXovgwaj.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" data-caption="3">
-                                                <img src="{{ asset('../../storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" alt="" />
+                                            <a href="{{ asset('public/storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" data-caption="3">
+                                                <img src="{{ asset('public/storage/media/ek1hQGFBH1v5Etm0lGdTqwjqLdA947yixkyozoly.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         <div>
-                                            <a href="{{ asset('../../storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" data-caption="4">
-                                                <img src="{{ asset('../../storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" alt="" />
+                                            <a href="{{ asset('public/storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" data-caption="4">
+                                                <img src="{{ asset('public/storage/media/Hu8EAHYbj6KjhgQ1NrSaOTyQFp8YebtUQ052YFER.jpg') }}" alt="" />
                                             </a>
                                         </div>
                                         </div>
@@ -298,7 +298,7 @@
                     <!-- fancybox item #1 -->
                     <div class="fancybox-item">
                         <div class="fancybox-item__icon">
-                            <img src="{{ asset('../../assets/img/hqe.png') }}" alt="" />
+                            <img src="{{ asset('public/assets/img/hqe.png') }}" alt="" />
                         </div>
                         <!-- /.fancybox-icon -->
                         <div class="fancybox-item__content">
@@ -313,7 +313,7 @@
                     <!-- fancybox item #2 -->
                     <div class="fancybox-item">
                         <div class="fancybox-item__icon">
-                            <img src="{{ asset('../../assets/img/et.png') }}" alt="" />
+                            <img src="{{ asset('public/assets/img/et.png') }}" alt="" />
                         </div>
                         <!-- /.fancybox-icon -->
                         <div class="fancybox-item__content">
@@ -328,7 +328,7 @@
                     <!-- fancybox item #3 -->
                     <div class="fancybox-item">
                         <div class="fancybox-item__icon">
-                            <img src="{{ asset('../../assets/img/ec.png') }}" alt="" />
+                            <img src="{{ asset('public/assets/img/ec.png') }}" alt="" />
                         </div>
                         <!-- /.fancybox-icon -->
                         <div class="fancybox-item__content">
@@ -343,7 +343,7 @@
                     <!-- fancybox item #3 -->
                     <div class="fancybox-item">
                         <div class="fancybox-item__icon">
-                            <img src="{{ asset('../../assets/img/tw.png') }}" alt="" />
+                            <img src="{{ asset('public/assets/img/tw.png') }}" alt="" />
                         </div>
                         <!-- /.fancybox-icon -->
                         <div class="fancybox-item__content">
@@ -380,7 +380,7 @@
                 <div class="col-6 col-sm-6 col-md-6 col-lg-3">
                     <div class="process-item">
                         <div class="process-item__icon">
-                            <img src="{{ asset('../../assets/img/ip.png') }}" alt="" />
+                            <img src="{{ asset('public/assets/img/ip.png') }}" alt="" />
                         </div>
                         <!-- /.process-item__icon -->
                         <h4 class="process-item__title color-ble">
@@ -396,7 +396,7 @@
                 <div class="col-6 col-sm-6 col-md-6 col-lg-3">
                     <div class="process-item">
                         <div class="process-item__icon">
-                            <img src="{{ asset('../../assets/img/sda.png') }}" alt="" />
+                            <img src="{{ asset('public/assets/img/sda.png') }}" alt="" />
                         </div>
                         <!-- /.process-item__icon -->
                         <h4 class="process-item__title color-ble">
@@ -412,7 +412,7 @@
                 <div class="col-6 col-sm-6 col-md-6 col-lg-3">
                     <div class="process-item">
                         <div class="process-item__icon">
-                            <img src="{{ asset('../../assets/img/eqc.png') }}" alt="" />
+                            <img src="{{ asset('public/assets/img/eqc.png') }}" alt="" />
                         </div>
                         <!-- /.process-item__icon -->
                         <h4 class="process-item__title color-ble">
@@ -428,7 +428,7 @@
                 <div class="col-6 col-sm-6 col-md-6 col-lg-3">
                     <div class="process-item">
                         <div class="process-item__icon">
-                            <img src="{{ asset('../../assets/img/ap.png') }}" alt="" />
+                            <img src="{{ asset('public/assets/img/ap.png') }}" alt="" />
                         </div>
                         <!-- /.process-item__icon -->
                         <h4 class="process-item__title color-ble">
